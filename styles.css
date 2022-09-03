@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(221,223,220);
+    font-family: Helvetica, sans-serif;
+}
+
+.main-title {
+    /* border:1px solid black; */
+    max-width: fit-content;
+    margin: 0 auto;
+    font-size: 70px;
+}
